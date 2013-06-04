@@ -1,0 +1,3 @@
+[submodule "libogg-cmake"]
+	path = libogg-cmake
+	url = https://github.com/changyy/libogg-cmake.git
